@@ -8,9 +8,33 @@ namespace GettingStartedSignalR.TwilioApp.Hubs
 {
     public class TwilioHub : Hub
     {
-        public void WriteSMS(string from, string message)
+        static TwilioHub()
         {
-            Clients.addMessage(from, message);
+            Messages = new List<Message>();
         }
+
+        public static List<Message> Messages { get; set; } 
+        public void WriteSMS(string from, string message, string fromLocation)
+        {
+            var item = new Message()
+                           {
+                               Body = message, From = from, FromLocation = fromLocation
+                           };
+            Messages.Add(item);
+
+            Clients.addMessage(from, message, item.FromLocation);
+        }
+
+        public void GetOld()
+        {
+            Messages.ForEach(p => Caller.addMessage(p.From, p.Body, p.FromLocation));
+        }
+    }
+
+    public class Message
+    {
+        public string From { get; set; }
+        public string FromLocation { get; set; }
+        public string Body { get; set; }
     }
 }

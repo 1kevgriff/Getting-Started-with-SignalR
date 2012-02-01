@@ -7,3 +7,10 @@ C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingSta
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.dll
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.pdb
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\GettingStartedSignalR.Web.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\GettingStartedSignalR.Web.pdb
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\SignalR.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.pdb

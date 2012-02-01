@@ -2,21 +2,47 @@
     ViewBag.Title = "Home Page";
 }
 
+<h1>Welcome! Try sending a SMS to 757-941-GRIF (4743)</h1>
+@*<h2>Warning: Your phone number will be visible to anyone on the site.  This is to prevent spamming.</h2>*@
+
 <div id="messages">
 </div>
 
 <script type="text/javascript">
     $(function () {
+        $("#messages").isotope({
+            itemSelector: '.smsMessage'
+        });
+
         // Proxy created on the fly
         var chat = $.connection.twilioHub;
 
         // Declare a function on the chat hub so the server can invoke it
-        chat.addMessage = function (from, message) {
-            $('#messages').append('<li> From: ' + from + ' - ' + message + '</li>');
+        chat.addMessage = function (from, message, fromLocation) {
+            //            $('#messages').append('<li> From: ' + from + ' - ' + message + '</li>');
+
+            var newContent = $("#smsTemplate").render({
+                Message: message,
+                From: from,
+                FromLocation: fromLocation
+            });
+
+            var contentJQ = $(newContent);
+
+            $("#messages").prepend(contentJQ).isotope('reloadItems').isotope({ sortBy: 'original-order' });
         };
-        
+
         // Start the connection
-        $.connection.hub.start();
+        $.connection.hub.start({ }, function() {
+            chat.getOld();
+        });
     });
-    
+
+</script>
+
+<script type="text/x-jquery-tmpl" id="smsTemplate">
+    <div class="smsMessage">
+        <p class="messageText">{{=Message}}</p>
+        <p class="fromText">Location: {{=FromLocation}}</p>
+    </div>
 </script>

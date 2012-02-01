@@ -17,13 +17,18 @@ namespace GettingStartedSignalR.TwilioApp.Controllers
         //
         // GET: /Twil/
 
-        public ActionResult GetSMS(string From, string To, string SmsSid, string Body)
+        public ActionResult GetSMS(string From, string To, string SmsSid, string Body, string FromZip, string FromCity, string FromState, string FromCountry)
         {
             var twilio = new TwilioRestClient("ACa2de2b9a03db42ee981073b917cc8132", "4967e4b302d2389c3feec3c19e6b43ba");
             var message = twilio.GetSmsMessage(SmsSid);
 
             var clients = Hub.GetClients<TwilioHub>();
-            clients.addMessage(message.From, message.Body);
+            var item = new Message()
+                           {
+                               Body = message.Body, From = message.From, FromLocation = string.Format("{0}, {1} {2} {3}", FromCity, FromState, FromZip, FromCountry)
+                           };
+            TwilioHub.Messages.Add(item);
+            clients.addMessage(message.From, message.Body, item.FromLocation);
 
             return new EmptyResult();
         }
