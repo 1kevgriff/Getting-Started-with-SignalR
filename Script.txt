@@ -1,0 +1,49 @@
+SignalR Script - Chat Application
+---------------------------------
+
+1) Create new MVC application
+2) Nuget -> SignalR
+3) Create Hubs folder
+4) Create Chat.cs
+
+	public class Chat : Hub
+    {
+        public void Send(string msg)
+        {
+            // Call the addMessage method on all clients
+            Clients.addMessage(message);
+        }
+    }
+
+5) In Index.cshtml
+
+	<div id="messages">
+	</div>
+
+	<input type="text" name="msg" id="msg" value="" />
+	<button id="broadcast">Send</button>
+	<script type="text/javascript">
+	    $(function () {
+	        // Proxy created on the fly
+	        var chat = $.connection.chat;
+
+	        // Declare a function on the chat hub so the server can invoke it
+	        chat.addMessage = function (message) {
+	            $('#messages').append('<li>' + message + '</li>');
+	        };
+
+	        $("#broadcast").click(function () {
+	            // Call the chat method on the server
+	            chat.send($('#msg').val());
+	        });
+
+	        // Start the connection
+	        $.connection.hub.start();
+	    });
+	    
+	</script>
+
+6) Walk through the code.  Show off the SignalR proxy code.
+
+SignalR Script - Twilio Application
+---------------------------------

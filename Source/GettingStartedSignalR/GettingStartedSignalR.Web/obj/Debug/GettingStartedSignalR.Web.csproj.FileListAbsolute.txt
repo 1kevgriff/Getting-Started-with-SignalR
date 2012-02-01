@@ -7,9 +7,3 @@ C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingSta
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.dll
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.pdb
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Mvc.dll
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Twiml.dll
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Mvc.pdb
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Mvc.xml
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Twiml.pdb
-C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Twilio.Twiml.xml

@@ -1,0 +1,30 @@
+WELCOME
+
+ABOUT ME
+
+THE WEB v1
+ - Request->Response
+ - Static
+
+THE WEB v2
+ - AJAX
+ - jQuery
+ - Manipulate page in "real time"
+
+"Real Time"
+ - Interval polling
+ - Long polling
+ - Still client requesting from server
+
+THE WEB v2.5
+ - SignalR
+ - Long polling, but allows server to broad messages
+
+DEMO
+ - Create new MVC site
+ - Add textbox, button, and "message" div to index
+
+The WEB v3
+ - WebSockets
+ - Constant connections between Client and Server
+ - Server may broadcast messages at any time

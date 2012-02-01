@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="messages">
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        // Proxy created on the fly
+        var chat = $.connection.twilioHub;
+
+        // Declare a function on the chat hub so the server can invoke it
+        chat.addMessage = function (from, message) {
+            $('#messages').append('<li> From: ' + from + ' - ' + message + '</li>');
+        };
+        
+        // Start the connection
+        $.connection.hub.start();
+    });
+    
+</script>

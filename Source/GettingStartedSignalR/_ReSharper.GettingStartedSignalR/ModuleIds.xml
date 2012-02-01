@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="F02736CF-19BF-491D-B9F4-B47079C7BBE0" ModuleId="GettingStartedSignalR.Web" />
+  <Module PersistentId="6C70F395-E7CA-41B8-A43A-A816C9C655AC" ModuleId="GettingStartedSignalR.TwilioApp" />
 </Modules>
