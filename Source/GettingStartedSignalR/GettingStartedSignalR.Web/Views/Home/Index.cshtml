@@ -1,8 +1,8 @@
 ﻿@{
     ViewBag.Title = "Home Page";
 }
-<div id="messages">
-</div>
+<ul id="messages">
+</ul>
 
 <input type="text" name="msg" id="msg" value="" />
 <button id="broadcast">Send</button>
@@ -18,7 +18,13 @@
 
         $("#broadcast").click(function () {
             // Call the chat method on the server
-            chat.send($('#msg').val());
+            chat.send($('#msg').val())
+            .done(function () {
+                alert("complete");
+            })
+            .fail(function (text) {
+                alert("error");
+            });
         });
 
         // Start the connection

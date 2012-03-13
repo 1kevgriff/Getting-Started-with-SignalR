@@ -14,15 +14,10 @@ namespace GettingStartedSignalR.TwilioApp.Hubs
         }
 
         public static List<Message> Messages { get; set; } 
-        public void WriteSMS(string from, string message, string fromLocation)
-        {
-            var item = new Message()
-                           {
-                               Body = message, From = from, FromLocation = fromLocation
-                           };
-            Messages.Add(item);
 
-            Clients.addMessage(from, message, item.FromLocation);
+        public void Init()
+        {
+
         }
 
         public void GetOld()

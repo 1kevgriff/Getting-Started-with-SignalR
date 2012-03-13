@@ -19,8 +19,7 @@
 
         // Declare a function on the chat hub so the server can invoke it
         chat.addMessage = function (from, message, fromLocation) {
-            //            $('#messages').append('<li> From: ' + from + ' - ' + message + '</li>');
-
+            
             var newContent = $("#smsTemplate").render({
                 Message: message,
                 From: from,
@@ -33,7 +32,7 @@
         };
 
         // Start the connection
-        $.connection.hub.start({ }, function() {
+        $.connection.hub.start({ transport: "websocket" }, function() {
             chat.getOld();
         });
     });

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <contentPath path="E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" />
-  <setAcl path="E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <contentPath path="C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>

@@ -1,50 +1,50 @@
 ﻿<RecentFiles>
   <RecentFiles>
     <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/f:Global.asax.cs" caret="0" fromTop="0" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="334" fromTop="13" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:HomeController.cs" caret="264" fromTop="11" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Home/f:Index.cshtml" caret="160" fromTop="7" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Shared/f:_Layout.cshtml" caret="191" fromTop="6" />
     <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/f:Web.config" caret="2051" fromTop="34" />
     <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="5788" fromTop="21" />
     <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:style.css" caret="1346" fromTop="5" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="1597" fromTop="22" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1296" fromTop="37" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="965" fromTop="33" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="362" fromTop="13" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Shared/f:_Layout.cshtml" caret="1031" fromTop="24" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="987" fromTop="18" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Home/f:Index.cshtml" caret="524" fromTop="13" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="698" fromTop="6" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="362" fromTop="16" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="963" fromTop="8" />
   </RecentFiles>
   <RecentEdits>
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="2030" fromTop="31" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="1367" fromTop="23" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1189" fromTop="21" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="139" fromTop="5" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1189" fromTop="29" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Shared/f:_Layout.cshtml" caret="232" fromTop="6" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:style.css" caret="1600" fromTop="31" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:style.css" caret="1600" fromTop="19" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="0" fromTop="0" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:style.css" caret="1467" fromTop="8" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="5786" fromTop="17" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="5713" fromTop="13" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="230" fromTop="7" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1049" fromTop="30" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="6266" fromTop="47" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="5823" fromTop="24" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="6215" fromTop="40" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Content/f:Site.css" caret="6100" fromTop="34" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="579" fromTop="19" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="1104" fromTop="21" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="230" fromTop="7" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="1026" fromTop="30" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="882" fromTop="28" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="286" fromTop="12" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1176" fromTop="35" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="968" fromTop="28" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="776" fromTop="24" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="877" fromTop="26" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="607" fromTop="20" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1400" fromTop="39" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="19" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Shared/f:_Layout.cshtml" caret="682" fromTop="15" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="20" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Shared/f:_Layout.cshtml" caret="1216" fromTop="35" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Shared/f:_Layout.cshtml" caret="457" fromTop="8" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="1169" fromTop="30" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="360" fromTop="14" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="22" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="2462" fromTop="25" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="17" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="293" fromTop="12" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Home/f:Index.cshtml" caret="746" fromTop="19" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Home/f:Index.cshtml" caret="158" fromTop="7" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="2364" fromTop="10" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="2462" fromTop="13" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="6" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="360" fromTop="16" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="8" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="535" fromTop="11" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="744" fromTop="4" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="1651" fromTop="18" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="2083" fromTop="25" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="1062" fromTop="4" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="1072" fromTop="14" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="466" fromTop="7" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="467" fromTop="0" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="1268" fromTop="14" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="134" fromTop="6" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="202" fromTop="9" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="362" fromTop="16" />
   </RecentEdits>
 </RecentFiles>

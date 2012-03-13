@@ -14,3 +14,7 @@ E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\Getti
 E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\ResolveAssemblyReference.cache
 E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.dll
 E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\obj\Debug\GettingStartedSignalR.Web.pdb
+C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.dll
+C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\SignalR.Hosting.AspNet.dll
+C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.pdb
+C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.xml
