@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEVNUG.Web", "SEVNUG.Web\SEVNUG.Web.csproj", "{57376941-C541-439D-8282-F5BED98A8EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEVNUG.Goof", "SEVNUG.Goof\SEVNUG.Goof.csproj", "{29C580D9-77D0-408F-B289-EC5A059F2978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57376941-C541-439D-8282-F5BED98A8EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57376941-C541-439D-8282-F5BED98A8EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57376941-C541-439D-8282-F5BED98A8EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57376941-C541-439D-8282-F5BED98A8EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C580D9-77D0-408F-B289-EC5A059F2978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C580D9-77D0-408F-B289-EC5A059F2978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C580D9-77D0-408F-B289-EC5A059F2978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C580D9-77D0-408F-B289-EC5A059F2978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
