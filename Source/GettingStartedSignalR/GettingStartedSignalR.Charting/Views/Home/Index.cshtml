@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "The Final Showdown";
+}
+<div id="pieChartVotes">
+</div>
+<button id="buttonPie">
+    VOTE PIE</button>
+<button id="buttonCake">
+    VOTE CAKE</button>
+
+<style type="text/css">
+    #pieChartVotes
+    {
+        width: 300px;
+        height: 300px;
+    }
+</style>
+<script type="text/javascript" src="/SignalR/Hubs"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var hub = $.connection.voteHub;
+
+        hub.updateVotes = function (seriesList) {
+            $("#pieChartVotes").wijpiechart("option", "seriesList", seriesList);
+        };
+
+        $("#pieChartVotes").wijpiechart({
+            radius: 100,
+            width: 300,
+            height: 300,
+            showChartLabels: false,
+            header: {
+                text: "Cake vs Pie"
+            }
+            ,
+            hint: {
+                content: function () {
+                    return this.data.label + " : " + Globalize.format(this.value / this.total, "p2");
+                }
+            },
+            seriesList: []
+        });
+
+        $("#buttonPie").click(function () {
+            hub.vote("Pie");
+        });
+        $("#buttonCake").click(function () {
+            hub.vote("Cake");
+        });
+
+        $.connection.hub.start().done(function () {
+            hub.preload();
+        });
+    });
+
+</script>
