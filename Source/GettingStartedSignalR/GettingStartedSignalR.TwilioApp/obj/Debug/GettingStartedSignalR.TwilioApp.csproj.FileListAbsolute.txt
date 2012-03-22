@@ -41,3 +41,4 @@ E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\Getti
 E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\GettingStartedSignalR.TwilioApp.dll
 E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\obj\Debug\GettingStartedSignalR.TwilioApp.pdb
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\bin\SignalR.Hosting.AspNet.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.TwilioApp\bin\SignalR.Hosting.AspNet.dll

@@ -43,11 +43,6 @@ namespace SEVNUG.Goof.Hubs
             }
 
             Clients.updateVotes(seriesList);
-
-            AddToGroup("admin");
-            RemoveFromGroup("admin");
-
-            Clients["admin"].updateVotes()
         }
     
         public void Preload()

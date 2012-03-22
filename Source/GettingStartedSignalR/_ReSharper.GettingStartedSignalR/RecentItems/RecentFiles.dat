@@ -10,10 +10,10 @@
     <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Views/d:Home/f:Index.cshtml" caret="524" fromTop="13" />
     <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
     <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/f:Global.asax.cs" caret="0" fromTop="0" />
-    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="698" fromTop="6" />
     <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="362" fromTop="16" />
-    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="963" fromTop="8" />
+    <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="2131" fromTop="33" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Controllers/f:TwilController.cs" caret="1413" fromTop="32" />
+    <File id="6C70F395-E7CA-41B8-A43A-A816C9C655AC/d:Hubs/f:TwilioHub.cs" caret="731" fromTop="32" />
   </RecentFiles>
   <RecentEdits>
     <File id="F02736CF-19BF-491D-B9F4-B47079C7BBE0/d:Hubs/f:Chat.cs" caret="492" fromTop="19" />

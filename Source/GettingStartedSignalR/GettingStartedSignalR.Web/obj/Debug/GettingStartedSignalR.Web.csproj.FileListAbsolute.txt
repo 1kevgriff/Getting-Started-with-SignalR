@@ -18,3 +18,9 @@ C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingSta
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\SignalR.Hosting.AspNet.dll
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.pdb
 C:\Code\Git\Getting-Started-with-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.xml
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\EntityFramework.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\SignalR.Hosting.AspNet.dll
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\EntityFramework.xml
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.pdb
+E:\Presentations\Getting-Started-With-SignalR\Source\GettingStartedSignalR\GettingStartedSignalR.Web\bin\Newtonsoft.Json.xml
